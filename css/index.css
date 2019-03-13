@@ -155,10 +155,6 @@ article .text img {
     margin-bottom: 15px;
 }
 
-.email {
-    text-align: right;
-}
-
 @media(max-width: 625px) {
     article .text .vg {
         display: grid;
@@ -203,4 +199,7 @@ header {
     margin-top: 50px;
     margin-bottom: 20px;
 }
-
+.contact{
+    display: flex;
+    flex: 1;
+}
